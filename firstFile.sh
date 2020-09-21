@@ -10,3 +10,5 @@ echo "Subtract two numbers"
 echo $((x-y))
 echo "multiplication of two number"
 echo $((x*y))
+echo "division of two number"
+echo $((x/y))

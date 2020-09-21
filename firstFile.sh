@@ -4,3 +4,5 @@ echo "Enter first number"
 read x
 echo "Enter second number"
 read y
+echo "Adding numbers"
+echo $((x+y))
